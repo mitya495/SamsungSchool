@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Samsung IT School</string>
+    <string name="button1_text">Добро пожаловать в Samsung IT School</string>
+    <string name="button2_text">Подать заявку в Samsung IT School</string>
+    <string name="button3_text">Посетить Samsung Innovation Campus</string>
+    <string name="toast_message">Добро пожаловать в Samsung IT School</string>
+    <string name="email_subject">Заявка в Samsung IT School</string>
+    <string name="copyright">©Все права защищены</string>
+</resources>

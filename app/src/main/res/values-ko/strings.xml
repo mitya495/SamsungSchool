@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">삼성 잇 스쿨</string>
+    <string name="button1_text">삼성 잇 스쿨 에 오신 것을 환영합니다</string>
+    <string name="button2_text">삼성 잇 스쿨 에 지원하기</string>
+    <string name="button3_text">삼성이노베이션캠퍼스 방문</string>
+    <string name="toast_message">S삼성 잇 스쿨 에 오신 것을 환영합니다</string>
+    <string name="email_subject">삼성 잇 스쿨 지원</string>
+    <string name="copyright">©모든 권리 보유</string>
+</resources>

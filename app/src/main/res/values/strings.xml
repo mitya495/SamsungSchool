@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Samsung IT School</string>
+    <string name="button1_text">Welcome to Samsung IT School</string>
+    <string name="button2_text">Apply to Samsung IT School</string>
+    <string name="button3_text">Visit Samsung Innovation Campus</string>
+    <string name="toast_message">Welcome to Samsung IT School</string>
+    <string name="email_subject">Application to Samsung IT School</string>
+    <string name="copyright">©All rights reserved</string>
+</resources>
